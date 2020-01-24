@@ -2,12 +2,15 @@
 
 import random
 import sys
+import os
 from PyQt5.QtWidgets import *
 from PyQt5.QtCore import *
 
 shuffleAnswers = True
 #chapters = ["1", "2", "3", "4", "5", "6"]
 chapters = ["1", "2", "6"]
+
+os.chdir(os.path.dirname(os.path.realpath(sys.argv[0])))
 
 #
 # Loading questions
