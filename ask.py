@@ -7,7 +7,7 @@ from PyQt5.QtCore import *
 
 shuffleAnswers = True
 #chapters = ["1", "2", "3", "4", "5", "6"]
-chapters = ["2"]
+chapters = ["1", "2", "6"]
 
 #
 # Loading questions
@@ -62,6 +62,7 @@ class Window(QWidget):
 
     def __init__(self):
         QWidget.__init__(self)
+        self.setStyleSheet("font-size: 18px")
         self.outer = QVBoxLayout()
 
         # title
