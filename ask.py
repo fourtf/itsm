@@ -31,7 +31,8 @@ for chapter in chapters:
         first = True
         question = Question()
 
-        while line := fp.readline():
+        line = fp.readline()
+        while line:
             line = line.strip()
 
             # new question
@@ -47,6 +48,8 @@ for chapter in chapters:
             # title
             else:
                 question.text += '\n' + line
+
+            line = fp.readline()
 
         questions.append(question)
 
