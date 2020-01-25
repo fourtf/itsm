@@ -62,6 +62,21 @@ random.shuffle(questions)
 #
 # GUI
 #
+def wordWrap(text):
+    result = ""
+
+    for line in text.split('\n'):
+        lineLength = 0
+        for word in line.split(' '):
+            result += word + " "
+            if lineLength > 70:
+                result += "\n"
+                lineLength = 0
+            lineLength += len(word) + 1
+        line += '\n'
+
+    return result
+
 class Window(QWidget):
     currentQuestion = 0
 
@@ -104,7 +119,7 @@ class Window(QWidget):
     def nextQuestion(self, _2):
         index = self.currentQuestion % len(questions)
         q = questions[index]
-        self.questionLabel.setText(q.text)
+        self.questionLabel.setText(wordWrap(q.text))
         self.titleLabel.setText(f"[{index+1}/{len(questions)}]")
 
         # clear checkboxes
@@ -118,7 +133,7 @@ class Window(QWidget):
             random.shuffle(answers)
 
         for answer in answers:
-            checkbox = QCheckBox(answer.text)
+            checkbox = QCheckBox(wordWrap(answer.text))
             self.checkboxes.addWidget(checkbox)
             self.correctAnswers.append(answer.checked)
 
