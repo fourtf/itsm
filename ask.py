@@ -29,7 +29,7 @@ class Question:
     answers = []
 
 for chapter in chapters:
-    with open(chapter) as fp:
+    with open(chapter, encoding='utf8') as fp:
         first = True
         question = Question()
 
