@@ -26,7 +26,8 @@ class Answer:
 
 class Question:
     text = ""
-    answers = []
+    def __init__(self):
+        self.answers = []
 
 for chapter in chapters:
     with open(chapter, encoding='utf8') as fp:
@@ -42,7 +43,6 @@ for chapter in chapters:
                 if not first:
                     questions.append(question)
                     question = Question()
-                    question.answers = []
                 first = False
             # option
             elif line.startswith(("[ ]","[x]")):
@@ -75,7 +75,7 @@ def wordWrap(text):
             lineLength += len(word) + 1
         line += '\n'
 
-    return result
+    return result.strip()
 
 class Window(QWidget):
     currentQuestion = 0
