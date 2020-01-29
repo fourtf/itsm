@@ -47,6 +47,9 @@ for chapter in chapters:
             # option
             elif line.startswith(("[ ]","[x]")):
                 question.answers.append(Answer(line[3:].strip(), line.startswith("[x]")))
+
+                if shuffleAnswers:
+                    random.shuffle(question.answers)
             # title
             else:
                 question.text += '\n' + line
@@ -79,6 +82,7 @@ def wordWrap(text):
 
 class Window(QWidget):
     currentQuestion = 0
+    lastAnsweredQuestion = 0
 
     def __init__(self):
         QWidget.__init__(self)
@@ -108,15 +112,19 @@ class Window(QWidget):
         self.nextButton.clicked.connect(self.nextQuestion)
         self.validateButton = QPushButton("Validate")
         self.validateButton.clicked.connect(self.validateAnswers);
+        self.previousButton = QPushButton("Previous")
+        self.previousButton.clicked.connect(self.previousQuestion)
+        self.previousButton.setEnabled(False)
+        buttons.addWidget(self.previousButton)
         buttons.addWidget(self.validateButton)
         buttons.addWidget(self.nextButton)
 
         # misc
         self.setLayout(self.outer)
 
-        self.nextQuestion(None)
+        self.loadQuestion()
 
-    def nextQuestion(self, _2):
+    def loadQuestion(self):
         index = self.currentQuestion % len(questions)
         q = questions[index]
         self.questionLabel.setText(wordWrap(q.text))
@@ -129,16 +137,29 @@ class Window(QWidget):
         # add new checkboxes
         self.correctAnswers = []
         answers = q.answers.copy()
-        if shuffleAnswers:
-            random.shuffle(answers)
 
         for answer in answers:
             checkbox = QCheckBox(wordWrap(answer.text))
             self.checkboxes.addWidget(checkbox)
             self.correctAnswers.append(answer.checked)
 
+    def nextQuestion(self, _2):
         self.currentQuestion += 1
-        self.nextButton.setEnabled(False)
+        if self.currentQuestion > self.lastAnsweredQuestion:
+            self.lastAnsweredQuestion = self.currentQuestion
+            self.nextButton.setEnabled(False)
+        self.previousButton.setEnabled(True)
+        self.loadQuestion()
+
+    def previousQuestion(self, _2):
+        self.currentQuestion -= 1
+        if self.currentQuestion < 0:
+            self.currentQuestion = 0
+        if self.currentQuestion == 0:
+            self.previousButton.setEnabled(False)
+        self.loadQuestion()
+        self.nextButton.setEnabled(True)
+
 
     def validateAnswers(self, _2):
         i = 0
