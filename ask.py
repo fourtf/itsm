@@ -97,6 +97,7 @@ class Window(QWidget):
         # question
         self.questionLabel = QLabel()
         self.questionLabel.setTextFormat(Qt.TextFormat.PlainText)
+        self.questionLabel.setWordWrap(True)
         self.outer.addWidget(self.questionLabel)
 
         # checkboxes
@@ -127,7 +128,7 @@ class Window(QWidget):
     def loadQuestion(self):
         index = self.currentQuestion % len(questions)
         q = questions[index]
-        self.questionLabel.setText(wordWrap(q.text))
+        self.questionLabel.setText(q.text)
         self.titleLabel.setText(f"[{index+1}/{len(questions)}]")
 
         # clear checkboxes
