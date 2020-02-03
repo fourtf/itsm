@@ -8,6 +8,7 @@ from PyQt5.QtCore import *
 
 shuffleAnswers = True
 chapters = ["1", "2", "3", "4", "5", "6"]
+onlyFailed = False
 
 os.chdir(os.path.dirname(os.path.realpath(sys.argv[0])))
 
@@ -16,6 +17,14 @@ os.chdir(os.path.dirname(os.path.realpath(sys.argv[0])))
 #
 
 questions = []
+
+failed = []
+try:
+    with open("./failed") as f:
+        failed = f.read().splitlines()
+except:
+    print("")
+failedFd = open("./failed", "a+")
 
 class Answer:
     text = ""
@@ -26,6 +35,7 @@ class Answer:
 
 class Question:
     text = ""
+    id = ""
     def __init__(self):
         self.answers = []
 
@@ -40,9 +50,13 @@ for chapter in chapters:
 
             # new question
             if line.startswith("--"):
-                if not first:
-                    questions.append(question)
+                if first:
+                    question.id = line[3:]
+                else:
+                    if not onlyFailed or failed.count(question.id) > 0:
+                        questions.append(question)
                     question = Question()
+                    question.id = line[3:]
                 first = False
             # option
             elif line.startswith(("[ ]","[x]")):
@@ -56,6 +70,7 @@ for chapter in chapters:
 
             line = fp.readline()
 
+    if not onlyFailed or failed.count(question.id) > 0:
         questions.append(question)
 
 print(f"{len(questions)} Questions")
@@ -137,6 +152,7 @@ class Window(QWidget):
 
         # add new checkboxes
         self.correctAnswers = []
+        self.questionId = q.id
         answers = q.answers.copy()
 
         for answer in answers:
@@ -179,6 +195,8 @@ class Window(QWidget):
         if all_good:
             for i in range(0, self.checkboxes.count()):
                 self.checkboxes.itemAt(i).widget().setStyleSheet("color: #070")
+        else:
+            failedFd.write(self.questionId + "\n")
 
         self.nextButton.setEnabled(True)
 
