@@ -1,0 +1,90 @@
+--[ID: 354023]
+Welche Eigenschaften werden mit ERP-Systemen verbunden?
+Anzahl richtige Antworten: 3
+[x] Standardsoftware
+[ ] Skalierbarkeit
+[x] Integration aller wesentlichen betrieblichen Funktionen
+[x] Gemeinsame Datenbank
+[ ] Branchen�bergreifend
+
+
+--[ID: 354019]
+Was sind die wesentlichen Bestandteile der Definition eines Modells?
+Anzahl richtige Antworten: 2
+[ ] Ein Zweckbezug ist nicht immer notwendig.
+[ ] Enth�lt eine Optimierungsfunktion.
+[ ] Ist eine m�glichst genaue Abbildung des Originals.
+[ ] Erfasst nicht alle Attribute des Originals.
+[x] Betrifft ein bestimmtes Zeitintervall.
+
+
+--[ID: 354024]
+Der Begriff MRP steht f�r:
+[ ] Manufacturing Resource Planning
+[x] Material Requirements Planning
+[ ] Material Resource Planning
+[ ] Machine Requirements Planning
+
+
+--[ID: 354025]
+Ein Unternehmen hat eine Software entwickelt, mit der sie alle ihre wesentlichen betrieblichen Ressourcen plant. Ist dies ein ERP-System?
+[x] Nein
+[ ] Ja
+[ ] Ja, aus Sicht des Unternehmens, nein aus Marktsicht.
+
+
+--[ID: 354022]
+... sind Anwendungsprogramme, die Gesch�ftsprozesse im ERP-System ausf�hren.
+[ ] Stammdaten
+[ ] Organisationseinheiten
+[ ] Reports
+[x] Transaktionen
+
+
+--[ID: 354020]
+Was geh�rt nicht zu den Grundkonzepten von integrierten Anwendungssystemen (ERP-Systemen)?
+Anzahl richtige Antworten: 2
+[ ] Stammdaten
+[ ] Organisationselemente
+[ ] Transaktionen
+[ ] Belege
+[x] Buchungskreis
+[x] Einkaufsprozess
+
+
+--[ID: 354026]
+Entscheiden Sie, ob diese Aussage richtig oder falsch ist. �Abstimmkonten dienen der direkten manuellen Buchung.�
+[ ] Ja, richtig.
+[x] Nein, falsch.
+
+
+--[ID: 354018]
+Nennen Sie die drei Teilmodelle aus denen ein Unternehmensmodell besteht.
+Anzahl richtige Antworten: 3
+[ ] Organisationsmodell
+[x] Informationsmodell
+[ ] Datenmodell
+[x] Mengenmodell
+[ ] Softwarearchitekturmodell
+[x] Wertmodell
+[ ] Gesch�ftsmodell
+
+
+--[ID: 354021]
+Wie werden Gesch�ftsprozesse in ERP-Systemen abgebildet?
+Anzahl richtige Antworten: 2
+[x] Durch eine Folge von Zustands�nderungen.
+[ ] Durch eine Folge von Kontenbewegungen.
+[ ] Durch eine Buchung.
+[ ] Durch eine Transaktion.
+[x] Durch eine Folge von Datenbankzugriffen.
+
+
+--[ID: 354016]
+Welche der folgenden Einheiten ist die kleinste Organisationseinheit, die eine eigenst�ndige Buchf�hrung haben kann?
+Anzahl richtige Antworten: 1
+[ ] Profit Center
+[ ] Segment
+[x] Buchungskreis
+[ ] Werk
+[ ] Gesch�ftsbereich

@@ -7,7 +7,8 @@ from PyQt5.QtWidgets import *
 from PyQt5.QtCore import *
 
 shuffleAnswers = True
-chapters = ["1", "2", "3", "4", "5", "6"]
+#chapters = ["1", "2", "3", "4", "5", "6"]
+chapters = ["erp/1.txt", "erp/2.txt", "erp/3.txt", "erp/4.txt", "erp/5.txt"]
 onlyFailed = False
 
 os.chdir(os.path.dirname(os.path.realpath(sys.argv[0])))

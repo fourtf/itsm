@@ -1,0 +1,99 @@
+--[ID: 354148]
+Was ist keine M�glichkeit der Anpassung eines ERP-Systems?
+Anzahl richtige Antworten: 1
+[ ] Customizing
+[ ] Erweiterungen
+[ ] Modifikationen
+[x] Fremdentwicklungen
+[ ] Eigenentwicklungen
+[ ] Personalisierung
+[ ] Enhancement Packages
+
+
+--[ID: 354149]
+Welche der folgenden T�tigkeiten finden im Entwicklungssystem einer dreistufigen Systemlandschaft statt?
+Anzahl richtige Antworten: 3
+[ ] TRNG: Training
+[ ] DEV: Develop
+[x] TEST: Entwicklungstests
+[ ] QAS: Quality Assurance
+[ ] PROD: Produktion
+[x] CUST: Customizing
+[x] SAND: Entwicklung �Sandbox�
+[ ] QTST: Qualit�tstests
+
+
+--[ID: 354151]
+In welcher der ASAP-Phasen werden Transportwege definiert?
+Anzahl richtige Antworten: 2
+[x] Realisierung
+[x] Produktionsvorbereitung
+[ ] Projektvorbereitung
+[ ] GoLive
+[ ] Early Support
+[ ] Business Blueprint
+
+
+--[ID: 354153]
+In welcher der 5 ASAP-Phasen findet die Unternehmensanalyse statt?
+Anzahl richtige Antworten: 1
+[ ] Realisierung
+[ ] Produktionsvorbereitung
+[ ] Projektvorbereitung
+[ ] GoLive
+[ ] Early Support
+[x] Business Blueprint
+
+
+--[ID: 354155]
+Die gesetzlich vorgeschriebene 2-stufige Systemlandschaft besteht aus:
+Anzahl richtige Antworten: 2
+[ ] Qualit�tssicherungssystem
+[x] Produktivsystem 
+[ ] Abnahmesystem
+[x] Entwicklungs- und Testsystem
+
+
+--[ID: 354152]
+In welcher der 5 ASAP-Phasen werden Integrationstests durchgef�hrt?
+Anzahl richtige Antworten: 2
+[x] Realisierung
+[x] Produktionsvorbereitung
+[ ] Projektvorbereitung
+[ ] GoLive
+[ ] Early Support
+[ ] Business Blueprint
+
+
+--[ID: 354150]
+Welche der folgenden T�tigkeiten finden im Q-System einer dreistufigen Systemlandschaft statt?
+Anzahl richtige Antworten: 2
+[x] TRNG: Training
+[ ] DEV: Develop
+[ ] TEST: Entwicklungstests
+[ ] QAS: Quality Assurance
+[ ] PROD: Produktion
+[ ] CUST: Customizing
+[ ] SAND: Entwicklung �Sandbox�
+[x] QTST: Qualit�tstests
+
+
+--[ID: 354156]
+Eine typische 3-stufige ERP-Systemlandschaft besteht aus:
+Anzahl richtige Antworten: 3
+[x] Entwicklungs- und Testsystem
+[x] Produktivsystem
+[ ] Abnahmesysteme
+[x] Qualit�tssicherungssystem
+[ ] Einf�hrungssystem
+
+
+--[ID: 354157]
+Enhancement Packages konzentrieren sich auf folgende Bereiche:
+Anzahl richtige Antworten: 4
+[x] Generische Erweiterungen
+[x] Branchenspezifische Erweiterungen
+[ ] Fehlerbeseitigung
+[x] Enterprise-Service-Pakete
+[x] Vereinfachungen
+[ ] Komplexe Erweiterungen

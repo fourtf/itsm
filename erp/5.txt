@@ -1,0 +1,88 @@
+--[ID: 354159]
+Was ist eine Logical Unit of Work ?
+Anzahl richtige Antworten: 1
+[ ] Prozess zur Sicherung der ACID Eigenschatften auf Datenbankebene.
+[x] Nicht teilbare Folge von Datenbankoperationen.
+[ ] Prozess zur Sicherung der ACID Eigenschatften auf Applikationsebene.
+[ ] Unterteilung eines Workprozesses in unteilbare Units.
+
+
+--[ID: 354166]
+Welche Aussagen zum Dispatcher sind richtig?
+Anzahl richtige Antworten: 2
+[ ] Der Dispater ist der Zugangspunkt zur Pr�sentationsebene aus Sicht der Applikationsebene.
+[x] Der Dispatcher ordnet dem Benutzer �ber das GUI angeforderte Dialogschritte einem Workprozess zu.
+[x] Ein Dialogschritt wird genau einem Workprozess zugeordnet.
+[ ] Der Dispatcher sorgt daf�r, dass in Ausf�hrung befindliche Transaktionen sich nicht gegenseitig beeinflussen.
+
+
+--[ID: 354158]
+Aus welchen Teilen besteht ein dynamisches Programm (Dynpro)?
+Anzahl richtige Antworten: 2
+[x] Ablauflogik
+[ ] Maskensteuerung
+[x] grafische Darstellung 
+[ ] Einbildtransaktion
+[ ] GUI-Interface
+
+
+--[ID: 354161]
+Welche zwei Schritte umfasst eine Transaktion mindestens?
+Anzahl richtige Antworten: 2
+[x] Dialogsteuerung
+[ ] Gegenbuchung
+[ ] Belegerzeugung
+[x] Verbuchung
+[ ] Kontierung
+
+
+--[ID: 354163]
+Wozu dient der Verbucherprozess?
+Anzahl richtige Antworten: 2
+[x] Wegschreiben von Daten auf die Datenbank
+[ ] Wegschreiben von Buchhaltungss�tzen
+[ ] Synchronisation des Transaktions-Loggings
+[x] Freigabe auf der Sperrtabelle
+
+
+--[ID: 354165]
+Welchen der folgenden Prozesse gibt es genau einmal?
+Anzahl richtige Antworten: 2
+[ ] Workprozess
+[ ] Verbucherprozess
+[x] Enqueue-Workprozess
+[ ] Batchprozess
+[ ] Spoolprozess
+[x] Dispatcherprozess
+
+
+--[ID: 354164]
+Welcher Prozess ist f�r die Verwaltung der Sperrtabelle zust�ndig?
+[ ] Workprozess
+[ ] Verbucherprozess
+[x] Enqueue-Workprozess
+[ ] Batchprozess
+[ ] Spoolprozess
+[ ] Dispatcherprozess
+
+
+--[ID: 354160]
+Welche drei Prozesse betreffen das Transaktionslocking �ber die Sperrtabelle?
+Anzahl richtige Antworten: 3
+[ ] Batchprozess
+[x] Workprozess
+[x] Enqueue-Workprozess
+[ ] Spoolprozess
+[ ] LUW-Prozess
+[ ] Taskprozess
+[x] Verbucherprozess
+
+
+--[ID: 354162]
+Die Architektur von ERP-Systemen ist in Schichten aufgebaut. Welche Schichten sind nicht Bestandteil von ERP-Systemen?
+Anzahl richtige Antworten: 2
+[ ] Benutzerschicht
+[x] Schnittstellenschicht
+[ ] Customizingschicht
+[ ] Applikationsschicht
+[x] Integrationsschicht

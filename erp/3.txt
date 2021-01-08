@@ -1,0 +1,417 @@
+--[ID: 354122]
+Wo wird eine Orderbuchpflicht eines Materials vermerkt?
+[ ] Im Orderbuch.
+[x] Im Materialstammsatz.
+[ ] Im Einkaufsinfosatz.
+[ ] In der Quotierungstabelle.
+
+
+--[ID: 354105]
+Bei der Materialbedarfsplanung (MRP) wird aus dem Bruttoprim�rbedarf abgeleitet:
+Anzahl richtige Antworten: 2
+[x] Nettoprim�rbedarf
+[ ] Nettoterti�rbedarf
+[x] Bruttosekund�rbedarf
+[ ] Bruttoprim�rkosten
+
+
+--[ID: 354141]
+Welche 3 Organisationsebenen werden ben�tigt, um einen Wareneingang f�r Lagermaterial, das �ber eine Bestellung beschafft wurde, erfolgreich zu buchen?
+Anzahl richtige Antworten: 3
+[x] Buchungskreis
+[ ] Einkaufsorganisation
+[x] Werk
+[x] Lagerort
+[ ] Materialstammsatz
+
+
+--[ID: 354112]
+Zu welcher Sicht geh�rt die optimale Losgr��e?
+Anzahl richtige Antworten: 1
+[ ] Dispositionssicht
+[ ] Einkaufsicht
+[ ] Lagersicht
+[ ] Grunddatensicht
+[ ] Produktionssicht
+
+
+--[ID: 354138]
+Wie wirkt sich folgender Vorgang auf die Positionen des dispositiven Kontos aus?
+Vorgang �ungeplante Entnahme f�r Fertigung�.
+[ ] geplante Abg�nge + / Reservierungen - / disp. Bestand unver�ndert
+[x] phys. Abg�nge + / disp. Bestand -
+[ ] geplante Abg�nge + / Reservierungen - / disp. Bestand -
+[ ] phys. Abg�nge + / Reservierungen - / disp. Bestand -
+
+
+--[ID: 354101]
+Welche der folgenden Aktionen f�hrt das System beim Zahllauf aus?
+Anzahl richtige Antworten: 1
+[x] Das System bucht die Zahlungsbelege.
+[ ] Das System erzeugt offene Posten.
+[ ] Das System �ndert Daten f�r das Ausdrucken der Zahlungstr�ger.
+
+
+--[ID: 354099]
+Zu welcher Stammdatensicht geh�rt die Bestellw�hrung?
+Anzahl richtige Antworten: 1
+[ ] Allgemeine Daten
+[ ] Buchhaltungsdaten
+[x] Einkaufsdaten
+
+
+--[ID: 354123]
+Auf welche Organisationseinheit bezieht sich die Orderbuchpflicht eines Materials?
+[ ] Einkaufsorganisation
+[ ] Verkaufsorganisation
+[x] Werk
+[ ] Buchungskreis
+
+
+--[ID: 354115]
+Wie wird nicht bestandsgef�hrtes Material beschafft?
+[ ] �ber MRP-Lauf
+[ ] Verbrauchgesteuerte Beschaffung
+[x] Manuelle Bedarfsanforderung
+[ ] Telefonische Bestellung
+[ ] Plangesteuerte Beschaffung
+[ ] Bestellung im Werk
+
+
+--[ID: 354132]
+In welcher Sicht des Materialstammsatzes befindet sich die Losgr��e?
+[ ] Produktionssicht
+[x] Dispositionssicht
+[ ] Planungssicht
+[ ] Einkaufssicht
+
+
+--[ID: 354135]
+Welches ist die richtige Reihenfolge folgender Begriffe/Aktivit�ten im Materialwirtschaftsprozess?
+a) Einkauf
+b) Lagerverwaltung
+c) Bestandsf�hrung
+d) Disposition
+e) Rechnungspr�fung
+[ ] d,a,b,c,e
+[ ] a,d,c,b,e
+[x] d,a,c,b,e
+[ ] b,a,c,d,e
+
+
+--[ID: 354139]
+Wie wirkt sich folgender Vorgang auf die Positionen des dispositiven Kontos aus?Vorgang �Inventurdifferenz physischer Bestand (Z�hlbestand) gr��er Buchbestand�
+[ ] phys. Abg�nge + / disp. Bestand -
+[x] phys. Zug�nge  + / disp. Bestand +
+[ ] phys. Abg�nge - / disp. Bestand -
+[ ] phys. Zug�nge - / disp. Bestand +
+
+
+--[ID: 354142]
+Welches beschafftes Material wird sofort vom System als verbraucht behandelt?
+[ ] Verbrauchsgef�hrtes Material
+[ ] Bestandsgef�hrtes Material
+[x] Nicht bestandgef�hrtes Material
+[ ] Frei disponierbares Material
+
+
+--[ID: 354146]
+Welche der folgenden Aussagen trifft auf die Umlagerung �Werk an Werk� zu?
+Anzahl richtige Antworten: 2
+[x] Die beiden Werke k�nnen zu verschiedenen BUK geh�ren.
+[ ] Eine Umlagerung �Werk an Werk� hat Auswirkungen f�r die Finanzbuchhaltung.
+[ ] Eine Umlagerung �Werk an Werk� geht nur innerhalb desselben Buchungskreises.
+[x] Bei einer Umlagerung �Werk an Werk� werden stets Materialwirtschaftsbelege erzeugt.
+
+
+--[ID: 354104]
+Mit dem Feld "Losgr��e" im Materialstammsatz wird die zu produzierende Menge gesteuert.
+[x] Richtig
+[ ] Falsch
+
+
+--[ID: 354128]
+Wie ist die Kardinalit�t (n:m-Beziehung) zwischen den Objekten Mandant und Buchungskreis?
+[ ] 1:1
+[x] 1:n
+[ ] m:1
+[ ] m:n
+
+
+--[ID: 354098]
+Welche der folgenden Organisationseinheiten spielen bei der Pflege von Materialstamms�tzen eine Rolle?
+Anzahl richtige Antworten: 3
+[x] Werksebene
+[x] Lagerortebene
+[x] Mandant
+[ ] Hauptarbeitsstufe
+
+
+--[ID: 354140]
+Welche der folgenden Aktivit�ten verkn�pft das Anlegen eines Kundenauftrags mit der Materialwirtschaft?
+[x] Verf�gbarkeitspr�fung
+[ ] Auftragser�ffnung
+[ ] Auftragsr�ckmeldung
+[ ] Materialentnahme
+
+
+--[ID: 354108]
+Physische Warenbewegungen geh�ren zu den Merkmalen von Umlagerungsbuchungen.
+[x] Richtig
+[ ] Falsch
+
+
+--[ID: 354114]
+Wann wird der Einkaufsinfosatz geschrieben?
+Anzahl richtige Antworten: 2
+[ ] Wird als Stammsatz angelegt.
+[x] Wird mit der ersten Bestellung angelegt.
+[ ] Wird der Bestellung angeh�ngt.
+[x] Wird mit einem Angebot angelegt.
+[ ] Wird beim Customizing angelegt.
+
+
+--[ID: 354102]
+Welchen Beleg erzeugt das System nach der Rechnungsbuchung?
+Anzahl richtige Antworten: 1
+[x] Buchhaltungsbeleg
+[ ] Kostenrechnungsbeleg
+[ ] Materialbeleg
+
+
+--[ID: 354126]
+Welche der folgenden Beispiele geh�ren zu den Stammdaten?
+Anzahl richtige Antworten: 3
+[x] Kunde
+[x] Lieferant
+[x] Material
+[ ] Werk
+[ ] Sparte
+
+
+--[ID: 354133]
+Welche sind organisatorische Einheiten der Materialplanung?
+Anzahl richtige Antworten: 3
+[x] Buchungskreis
+[x] Mandant
+[x] Einkauforganisation
+[ ] Gesch�ftsbereich
+[ ] Logistik
+
+
+--[ID: 354119]
+Welche Organisationeinheit ist f�r die Materialbewertung im Innenverh�ltnis verantwortlich?
+[ ] Buchungskreis
+[ ] Lager
+[x] Werk
+[ ] Gesch�ftsbereich
+
+
+--[ID: 354100]
+Welche der folgenden Belege erzeugt das System bei der Wareneingangsbuchung?
+Anzahl richtige Antworten: 2
+[x] Materialbeleg
+[x] Buchhaltungsbeleg
+[ ] Einkaufsbeleg
+
+
+--[ID: 354127]
+In welcher Sicht des Materialstammsatzes befindet sich die Information, ob ein Material plan- oder verbrauchsgesteuert ist?
+[ ] Buchhaltungssicht
+[x] Dispositionssicht
+[ ] Planungssicht
+[ ] Einkaufssicht
+
+
+--[ID: 354117]
+F�r welche Organisationseinheiten kann eine Einkaufsorganisation zust�ndig sein kann?
+Anzahl richtige Antworten: 1
+[ ] Buchungskreis
+[ ] Lager
+[x] Werk
+[ ] Gesch�ftsbereich
+
+
+--[ID: 354111]
+Zu welcher Sicht geh�rt die Bestellw�hrung?
+Anzahl richtige Antworten: 1
+[ ] Dispositionssicht
+[x] Einkaufssicht
+[ ] Lagersicht
+[ ] Grunddatensicht
+[ ] Vertriebssicht
+
+
+--[ID: 354131]
+C-Materialien werden in der Regel ... disponiert.
+Anzahl richtige Antworten: 2
+[ ] plangesteuert
+[x] verbrauchsgesteuert
+[ ] bedarfsgesteuert
+[ ] prognosegesteuert
+[x] rhythmusgesteuert
+
+
+--[ID: 354103]
+Welche der folgenden Aktionen werden bei der Fertigung des Materials durchgef�hrt?
+Anzahl richtige Antworten: 3
+[x] Materialbereitstellung
+[ ] Umwandlung des Planungsauftrags in Fertigungsauftrag
+[x] Wareneingangserfassung
+[x] Freigabe des Fertigungsauftrags
+
+
+--[ID: 354143]
+Welche Stammdaten werden ben�tigt, um eine Bestellung anzulegen?
+Anzahl richtige Antworten: 2
+[x] Lieferant
+[ ] Werk
+[ ] Einkaufsinfosatz
+[x] Material
+
+
+--[ID: 354106]
+Was kann beim Durchf�hren der MRP angelegt werden?
+Anzahl richtige Antworten: 2
+[ ] Bestellung
+[x] Sekund�rbedarfe
+[x] Planauftr�ge
+[ ] Planprim�rbedarfe
+
+
+--[ID: 354134]
+Welche sind organisatorische Einheiten der Beschaffung?
+Anzahl richtige Antworten: 3
+[x] Buchungskreis
+[x] Einkauforganisation
+[ ] Logistik
+[x] Werk
+[ ] Gesch�ftsbereich
+
+
+--[ID: 354125]
+Mandant, Werk und ... sind Beispiele f�r Organisationsebenen, die bei der Pflege von Materialstamms�tzen eine Rolle spielen.
+Anzahl richtige Antworten: 1
+[ ] Transaktion
+[ ] Stammdaten
+[x] Lagerort
+
+
+--[ID: 354147]
+Was ergibt sich aus der Verarbeitung des Zahlungsprogramms?
+Anzahl richtige Antworten: 2
+[x] Die offenen Posten der Kreditoren werden ausgeglichen.
+[x] Die Zahlungsbelege werden gebucht.
+[ ] Der Kreditorenumsatz wird erfolgswirksam gebucht.
+[ ] Das WE/RE-Konto wird anschlie�end ausgeglichen.
+
+
+--[ID: 354129]
+Wie ist die Kardinalit�t (n:m-Beziehung) zwischen den Objekten Einkauforganisation und Werk?
+[ ] 1:1
+[ ] 1:n
+[ ] m:1
+[x] m:n
+
+
+--[ID: 354144]
+Welche der folgenden organisatorischen Zuordnungen k�nnen Sie im Beschaffungsgesch�ftsprozess vornehmen?
+[x] Sie k�nnen einem BUK mehrere Einkaufsorganisationen zuordnen (1:n).
+[ ] Sie k�nnen der Einkaufsorganisation genau ein Werken zuordnen (1:1).
+[ ] Sie k�nnen einem strategischen Einkauf mehrere operative Einkauforganisationen zuordnen (1:n).
+[ ] Sie k�nnen ein Lager mehreren Werken zuordnen (1:n).
+
+
+--[ID: 354107]
+Im System wird ein Wareneingang gebucht. Welche der folgenden Belege werden dabei erstellt?
+Anzahl richtige Antworten: 2
+[x] Materialbeleg
+[ ] Umbuchungsbeleg
+[x] Buchhaltungsbeleg
+[ ] Auslieferbeleg
+
+
+--[ID: 354121]
+Welche Bedarfe werden im MRP-Lauf nicht geplant?
+[ ] Prim�rbedarfe
+[ ] Sekund�rbedarfe 
+[x] Terti�rbedarfe
+[ ] Mengenbedarfe
+[ ] Kapazit�tsbedarfe
+
+
+--[ID: 354145]
+Welche Objekte k�nnen durch einen Materialbedarfsplanungslauf (MRP) erzeugt werden?
+Anzahl richtige Antworten: 2
+[x] Bestellanforderung
+[ ] Fertigungsauftr�ge
+[x] Planauftrag
+[ ] Lieferantenbestellungen
+
+
+--[ID: 354118]
+Welche Organisationeinheit ist f�r die Materialbewertung im Au�enverh�ltnis verantwortlich?
+[x] Buchungskreis
+[ ] Mandant
+[ ] Werk
+[ ] Gesch�ftsbereich
+
+
+--[ID: 354109]
+Um welches Element in der Materialbedarfsplanung (MRP) handelt es sich bei einem Kundenauftrag?
+[x] Bestandselement
+[ ] Bedarfselement
+
+
+--[ID: 354113]
+Zu welcher Sicht geh�rt die optimale Bestellgr��e?
+Anzahl richtige Antworten: 1
+[x] Dispositionssicht
+[ ] Einkaufsicht
+[ ] Lagersicht
+[ ] Grunddatensicht
+[ ] Produktionssicht
+
+
+--[ID: 354110]
+Das Werk ist die ______ Einheit.
+Anzahl richtige Antworten: 2
+[ ] ausliefernde
+[x] disponierende
+[ ] bewertende
+[x] bestandsf�hrende
+[ ] produzierende
+
+
+--[ID: 354120]
+Wie wird nicht bestandsgef�hrtes Material beschafft?
+Anzahl richtige Antworten: 2
+[ ] plangesteuert
+[x] manuell
+[ ] verbrauchsgesteuert
+[ ] MRP-Lauf
+[x] Bestellanforderung
+
+
+--[ID: 354130]
+A-Materialien werden in der Regel ... disponiert.
+Anzahl richtige Antworten: 2
+[x] plangesteuert
+[ ] verbrauchsgesteuert
+[x] bedarfsgesteuert
+[ ] prognosegesteuert
+
+
+--[ID: 354137]
+Wie ist die Kardinalit�t (n:m-Beziehung) zwischen den Objekten Lager und Werk?
+[ ] 1:1
+[ ] 1:n
+[x] m:1
+[ ] m:n
+
+
+--[ID: 354116]
+Welche der folgenden Aussagen zur Logistik-Rechnungspr�fung trifft zu?
+[ ] Die Rechnungsbuchung ist die zweite Phase bei der Rechnungspr�fung.
+[ ] Die Logistik-Rechnungspr�fung dient als Bindeglied zwischen der Materialwirtschaft und der Bestandsf�hrung.
+[x] Beim Buchen meiner Rechnung erzeugt das System einen Buchhaltungsbeleg.
