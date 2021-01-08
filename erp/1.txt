@@ -5,21 +5,21 @@ Anzahl richtige Antworten: 3
 [ ] Skalierbarkeit
 [x] Integration aller wesentlichen betrieblichen Funktionen
 [x] Gemeinsame Datenbank
-[ ] Branchen�bergreifend
+[ ] Branchenübergreifend
 
 
 --[ID: 354019]
 Was sind die wesentlichen Bestandteile der Definition eines Modells?
 Anzahl richtige Antworten: 2
 [ ] Ein Zweckbezug ist nicht immer notwendig.
-[ ] Enth�lt eine Optimierungsfunktion.
-[ ] Ist eine m�glichst genaue Abbildung des Originals.
+[ ] Enthält eine Optimierungsfunktion.
+[ ] Ist eine möglichst genaue Abbildung des Originals.
 [ ] Erfasst nicht alle Attribute des Originals.
 [x] Betrifft ein bestimmtes Zeitintervall.
 
 
 --[ID: 354024]
-Der Begriff MRP steht f�r:
+Der Begriff MRP steht für:
 [ ] Manufacturing Resource Planning
 [x] Material Requirements Planning
 [ ] Material Resource Planning
@@ -34,7 +34,7 @@ Ein Unternehmen hat eine Software entwickelt, mit der sie alle ihre wesentlichen
 
 
 --[ID: 354022]
-... sind Anwendungsprogramme, die Gesch�ftsprozesse im ERP-System ausf�hren.
+... sind Anwendungsprogramme, die Geschäftsprozesse im ERP-System ausführen.
 [ ] Stammdaten
 [ ] Organisationseinheiten
 [ ] Reports
@@ -42,7 +42,7 @@ Ein Unternehmen hat eine Software entwickelt, mit der sie alle ihre wesentlichen
 
 
 --[ID: 354020]
-Was geh�rt nicht zu den Grundkonzepten von integrierten Anwendungssystemen (ERP-Systemen)?
+Was gehört nicht zu den Grundkonzepten von integrierten Anwendungssystemen (ERP-Systemen)?
 Anzahl richtige Antworten: 2
 [ ] Stammdaten
 [ ] Organisationselemente
@@ -53,7 +53,7 @@ Anzahl richtige Antworten: 2
 
 
 --[ID: 354026]
-Entscheiden Sie, ob diese Aussage richtig oder falsch ist. �Abstimmkonten dienen der direkten manuellen Buchung.�
+Entscheiden Sie, ob diese Aussage richtig oder falsch ist. Abstimmkonten dienen der direkten manuellen Buchung.
 [ ] Ja, richtig.
 [x] Nein, falsch.
 
@@ -67,13 +67,13 @@ Anzahl richtige Antworten: 3
 [x] Mengenmodell
 [ ] Softwarearchitekturmodell
 [x] Wertmodell
-[ ] Gesch�ftsmodell
+[ ] Geschäftsmodell
 
 
 --[ID: 354021]
-Wie werden Gesch�ftsprozesse in ERP-Systemen abgebildet?
+Wie werden Geschäftsprozesse in ERP-Systemen abgebildet?
 Anzahl richtige Antworten: 2
-[x] Durch eine Folge von Zustands�nderungen.
+[x] Durch eine Folge von Zustandsänderungen.
 [ ] Durch eine Folge von Kontenbewegungen.
 [ ] Durch eine Buchung.
 [ ] Durch eine Transaktion.
@@ -81,10 +81,10 @@ Anzahl richtige Antworten: 2
 
 
 --[ID: 354016]
-Welche der folgenden Einheiten ist die kleinste Organisationseinheit, die eine eigenst�ndige Buchf�hrung haben kann?
+Welche der folgenden Einheiten ist die kleinste Organisationseinheit, die eine eigenständige Buchführung haben kann?
 Anzahl richtige Antworten: 1
 [ ] Profit Center
 [ ] Segment
 [x] Buchungskreis
 [ ] Werk
-[ ] Gesch�ftsbereich
+[ ] Geschäftsbereich

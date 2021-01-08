@@ -1,5 +1,5 @@
 --[ID: 354148]
-Was ist keine M�glichkeit der Anpassung eines ERP-Systems?
+Was ist keine Möglichkeit der Anpassung eines ERP-Systems?
 Anzahl richtige Antworten: 1
 [ ] Customizing
 [ ] Erweiterungen
@@ -11,7 +11,7 @@ Anzahl richtige Antworten: 1
 
 
 --[ID: 354149]
-Welche der folgenden T�tigkeiten finden im Entwicklungssystem einer dreistufigen Systemlandschaft statt?
+Welche der folgenden Tätigkeiten finden im Entwicklungssystem einer dreistufigen Systemlandschaft statt?
 Anzahl richtige Antworten: 3
 [ ] TRNG: Training
 [ ] DEV: Develop
@@ -19,8 +19,8 @@ Anzahl richtige Antworten: 3
 [ ] QAS: Quality Assurance
 [ ] PROD: Produktion
 [x] CUST: Customizing
-[x] SAND: Entwicklung �Sandbox�
-[ ] QTST: Qualit�tstests
+[x] SAND: Entwicklung Sandbox
+[ ] QTST: Qualitätstests
 
 
 --[ID: 354151]
@@ -48,14 +48,14 @@ Anzahl richtige Antworten: 1
 --[ID: 354155]
 Die gesetzlich vorgeschriebene 2-stufige Systemlandschaft besteht aus:
 Anzahl richtige Antworten: 2
-[ ] Qualit�tssicherungssystem
+[ ] Qualitätssicherungssystem
 [x] Produktivsystem 
 [ ] Abnahmesystem
 [x] Entwicklungs- und Testsystem
 
 
 --[ID: 354152]
-In welcher der 5 ASAP-Phasen werden Integrationstests durchgef�hrt?
+In welcher der 5 ASAP-Phasen werden Integrationstests durchgeführt?
 Anzahl richtige Antworten: 2
 [x] Realisierung
 [x] Produktionsvorbereitung
@@ -66,7 +66,7 @@ Anzahl richtige Antworten: 2
 
 
 --[ID: 354150]
-Welche der folgenden T�tigkeiten finden im Q-System einer dreistufigen Systemlandschaft statt?
+Welche der folgenden Tätigkeiten finden im Q-System einer dreistufigen Systemlandschaft statt?
 Anzahl richtige Antworten: 2
 [x] TRNG: Training
 [ ] DEV: Develop
@@ -74,8 +74,8 @@ Anzahl richtige Antworten: 2
 [ ] QAS: Quality Assurance
 [ ] PROD: Produktion
 [ ] CUST: Customizing
-[ ] SAND: Entwicklung �Sandbox�
-[x] QTST: Qualit�tstests
+[ ] SAND: Entwicklung Sandbox
+[x] QTST: Qualitätstests
 
 
 --[ID: 354156]
@@ -84,8 +84,8 @@ Anzahl richtige Antworten: 3
 [x] Entwicklungs- und Testsystem
 [x] Produktivsystem
 [ ] Abnahmesysteme
-[x] Qualit�tssicherungssystem
-[ ] Einf�hrungssystem
+[x] Qualitätssicherungssystem
+[ ] Einführungssystem
 
 
 --[ID: 354157]

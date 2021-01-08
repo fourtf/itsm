@@ -1,35 +1,35 @@
 --[ID: 354031]
-Sie k�nnen einer Verkaufsorganisation einen oder mehrere Vertriebswege zuordnen.
+Sie können einer Verkaufsorganisation einen oder mehrere Vertriebswege zuordnen.
 Anzahl richtige Antworten: 1
 [x] Richtig
 [ ] Falsch
 
 
 --[ID: 354033]
-Welche der folgenden Daten geh�ren zu den Konditionsstammdaten?
+Welche der folgenden Daten gehören zu den Konditionsstammdaten?
 Anzahl richtige Antworten: 4
 [x] Preise
 [x] Steuern
 [ ] Gleitende Preise
-[x] Abschl�ge
-[x] Zuschl�ge
+[x] Abschläge
+[x] Zuschläge
 
 
 --[ID: 354035]
-Der Transportauftrag ist ein Beleg, mit dem Warenbewegungen in einem Lagerkomplex eingeleitet und �berwacht werden.
+Der Transportauftrag ist ein Beleg, mit dem Warenbewegungen in einem Lagerkomplex eingeleitet und überwacht werden.
 Anzahl richtige Antworten: 1
 [x] Richtig
 [ ] Falsch
 
 
 --[ID: 354039]
-Welche Funktionen geh�ren�zur Logistik?
+Welche Funktionen gehören zur Logistik?
 Anzahl richtige Antworten: 3
 [ ] Kostenstellen belasten
 [x] Produktionsplanung
 [ ] Routenoptimierung
 [x] Rechnungen erstellen
-[x] Rechnungspr�fung
+[x] Rechnungsprüfung
 [ ] Personalabrechnung
 
 
@@ -43,12 +43,12 @@ Anzahl richtige Antworten: 2
 
 
 --[ID: 354029]
-Wof�r ist eine Verkaufsorganisation zust�ndig?
+Wofür ist eine Verkaufsorganisation zuständig?
 Anzahl richtige Antworten: 4
 [x] Vertrieb von Waren und Dienstleistungen
 [x] Aushandeln von Verkaufskonditionen
 [ ] Strukturierung einer Unternehmensorganisation
-[x] Regressanspr�che der Kunden
+[x] Regressansprüche der Kunden
 [x] Produkthaftung
 
 
@@ -63,12 +63,12 @@ Anzahl richtige Antworten: 3
 
 
 --[ID: 354047]
-F�r welche Organisationseinheiten kann eine Bilanz sowie GuV erstellt werden?
+Für welche Organisationseinheiten kann eine Bilanz sowie GuV erstellt werden?
 Anzahl richtige Antworten: 3
 [x] Buchungskreis
 [ ] Mandant
 [x] Profit Center
-[x] Gesch�ftsbereich
+[x] Geschäftsbereich
 [ ] Werk
 
 
@@ -86,21 +86,21 @@ Anzahl richtige Antworten: 2
 Kann ein Buchungskreis mehreren Kreditkontrollbereichen zugeordnet werden?
 [ ] Ja.
 [x] Nein.
-[ ] Ja, wenn die Kreditkontrollbereiche unterschiedliche Gesch�ftsjahresvarianten haben.
+[ ] Ja, wenn die Kreditkontrollbereiche unterschiedliche Geschäftsjahresvarianten haben.
 
 
 --[ID: 354044]
 Kann ein Buchungskreis mehreren Kreditkontrollbereichen zugeordnet werden?
 [ ] Ja.
 [x] Nein.
-[ ] Ja, wenn die Kreditkontrollbereiche unterschiedliche Gesch�ftsjahresvarianten haben.
+[ ] Ja, wenn die Kreditkontrollbereiche unterschiedliche Geschäftsjahresvarianten haben.
 
 
 --[ID: 354030]
 Eine Versandstelle ist ein physischer Ort und befindet sich nahe dem/der
 Anzahl richtige Antworten: 1
 [x] Auslieferungswerk
-[ ] Produktionsst�tte
+[ ] Produktionsstätte
 [ ] Lagerort
 
 
@@ -113,26 +113,26 @@ Ein Kundenstammsatz wird von einem oder mehreren ... angelegt?
 
 
 --[ID: 354037]
-Welche der folgenden Elemente k�nnen in einem Unternehmen durch ein Profitcenter dargestellt werden?
+Welche der folgenden Elemente können in einem Unternehmen durch ein Profitcenter dargestellt werden?
 Anzahl richtige Antworten: 3
 [x] Organisationsebene
 [x] Geografischer Ort
-[x] Gesch�ftsbereich
+[x] Geschäftsbereich
 [ ] Bilanzebene
 [ ] Stammdatenebene
 
 
 --[ID: 354041]
-F�r welche Organisationseinheiten kann eine Bilanz sowie GuV erstellt werden?
+Für welche Organisationseinheiten kann eine Bilanz sowie GuV erstellt werden?
 Anzahl richtige Antworten: 2
 [x] Buchungskreis
 [ ] Mandant
 [ ] Kostenrechnungskreis
-[x] Gesch�ftsbereich
+[x] Geschäftsbereich
 
 
 --[ID: 354046]
-Welche Organisationsebene wird in der Kundenauftragsabwicklung ben�tigt, um einen Lieferbeleg zu erstellen?
+Welche Organisationsebene wird in der Kundenauftragsabwicklung benötigt, um einen Lieferbeleg zu erstellen?
 [ ] Buchungskreis
 [x] Versandstelle
 [ ] Verkaufsorganisation
@@ -140,11 +140,11 @@ Welche Organisationsebene wird in der Kundenauftragsabwicklung ben�tigt, um ei
 
 
 --[ID: 354034]
-Welche der folgenden Vorg�nge erfolgen bei der Versandabwicklung?
+Welche der folgenden Vorgänge erfolgen bei der Versandabwicklung?
 Anzahl richtige Antworten: 3
-[x] �berwachung des Versandbelegs
+[x] Überwachung des Versandbelegs
 [x] Warenverpackung
-[ ] Auftragsbest�tigung
+[ ] Auftragsbestätigung
 [x] Warenausgangsbuchung
 
 
@@ -161,11 +161,11 @@ Der Lieferprozess wird durch folgenden Vorgang abgeschlossen:
 Anzahl richtige Antworten: 1
 [x] Warenausgangsbuchung
 [ ] Anlegen einer Auslieferung
-[ ] �berwachung des Transports
+[ ] Überwachung des Transports
 [ ] Zahlungseingang zum Kundenauftrag
 
 
 --[ID: 354042]
-W�hlen Sie die passende Antwort.
-Kleinste bilanzierende Einheit ist�
+Wählen Sie die passende Antwort.
+Kleinste bilanzierende Einheit ist 
 [x] Buchungskreis

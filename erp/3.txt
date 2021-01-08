@@ -7,16 +7,16 @@ Wo wird eine Orderbuchpflicht eines Materials vermerkt?
 
 
 --[ID: 354105]
-Bei der Materialbedarfsplanung (MRP) wird aus dem Bruttoprim�rbedarf abgeleitet:
+Bei der Materialbedarfsplanung (MRP) wird aus dem Bruttoprimärbedarf abgeleitet:
 Anzahl richtige Antworten: 2
-[x] Nettoprim�rbedarf
-[ ] Nettoterti�rbedarf
-[x] Bruttosekund�rbedarf
-[ ] Bruttoprim�rkosten
+[x] Nettoprimärbedarf
+[ ] Nettotertiärbedarf
+[x] Bruttosekundärbedarf
+[ ] Bruttoprimärkosten
 
 
 --[ID: 354141]
-Welche 3 Organisationsebenen werden ben�tigt, um einen Wareneingang f�r Lagermaterial, das �ber eine Bestellung beschafft wurde, erfolgreich zu buchen?
+Welche 3 Organisationsebenen werden benötigt, um einen Wareneingang für Lagermaterial, das über eine Bestellung beschafft wurde, erfolgreich zu buchen?
 Anzahl richtige Antworten: 3
 [x] Buchungskreis
 [ ] Einkaufsorganisation
@@ -26,7 +26,7 @@ Anzahl richtige Antworten: 3
 
 
 --[ID: 354112]
-Zu welcher Sicht geh�rt die optimale Losgr��e?
+Zu welcher Sicht gehört die optimale Losgröße?
 Anzahl richtige Antworten: 1
 [ ] Dispositionssicht
 [ ] Einkaufsicht
@@ -37,23 +37,23 @@ Anzahl richtige Antworten: 1
 
 --[ID: 354138]
 Wie wirkt sich folgender Vorgang auf die Positionen des dispositiven Kontos aus?
-Vorgang �ungeplante Entnahme f�r Fertigung�.
-[ ] geplante Abg�nge + / Reservierungen - / disp. Bestand unver�ndert
-[x] phys. Abg�nge + / disp. Bestand -
-[ ] geplante Abg�nge + / Reservierungen - / disp. Bestand -
-[ ] phys. Abg�nge + / Reservierungen - / disp. Bestand -
+Vorgang ungeplante Entnahme für Fertigung.
+[ ] geplante Abgänge + / Reservierungen - / disp. Bestand unverändert
+[x] phys. Abgänge + / disp. Bestand -
+[ ] geplante Abgänge + / Reservierungen - / disp. Bestand -
+[ ] phys. Abgänge + / Reservierungen - / disp. Bestand -
 
 
 --[ID: 354101]
-Welche der folgenden Aktionen f�hrt das System beim Zahllauf aus?
+Welche der folgenden Aktionen führt das System beim Zahllauf aus?
 Anzahl richtige Antworten: 1
 [x] Das System bucht die Zahlungsbelege.
 [ ] Das System erzeugt offene Posten.
-[ ] Das System �ndert Daten f�r das Ausdrucken der Zahlungstr�ger.
+[ ] Das System ändert Daten für das Ausdrucken der Zahlungsträger.
 
 
 --[ID: 354099]
-Zu welcher Stammdatensicht geh�rt die Bestellw�hrung?
+Zu welcher Stammdatensicht gehört die Bestellwährung?
 Anzahl richtige Antworten: 1
 [ ] Allgemeine Daten
 [ ] Buchhaltungsdaten
@@ -69,8 +69,8 @@ Auf welche Organisationseinheit bezieht sich die Orderbuchpflicht eines Material
 
 
 --[ID: 354115]
-Wie wird nicht bestandsgef�hrtes Material beschafft?
-[ ] �ber MRP-Lauf
+Wie wird nicht bestandsgeführtes Material beschafft?
+[ ] Über MRP-Lauf
 [ ] Verbrauchgesteuerte Beschaffung
 [x] Manuelle Bedarfsanforderung
 [ ] Telefonische Bestellung
@@ -79,7 +79,7 @@ Wie wird nicht bestandsgef�hrtes Material beschafft?
 
 
 --[ID: 354132]
-In welcher Sicht des Materialstammsatzes befindet sich die Losgr��e?
+In welcher Sicht des Materialstammsatzes befindet sich die Losgröße?
 [ ] Produktionssicht
 [x] Dispositionssicht
 [ ] Planungssicht
@@ -87,12 +87,12 @@ In welcher Sicht des Materialstammsatzes befindet sich die Losgr��e?
 
 
 --[ID: 354135]
-Welches ist die richtige Reihenfolge folgender Begriffe/Aktivit�ten im Materialwirtschaftsprozess?
+Welches ist die richtige Reihenfolge folgender Begriffe/Aktivitäten im Materialwirtschaftsprozess?
 a) Einkauf
 b) Lagerverwaltung
-c) Bestandsf�hrung
+c) Bestandsführung
 d) Disposition
-e) Rechnungspr�fung
+e) Rechnungsprüfung
 [ ] d,a,b,c,e
 [ ] a,d,c,b,e
 [x] d,a,c,b,e
@@ -100,38 +100,38 @@ e) Rechnungspr�fung
 
 
 --[ID: 354139]
-Wie wirkt sich folgender Vorgang auf die Positionen des dispositiven Kontos aus?Vorgang �Inventurdifferenz physischer Bestand (Z�hlbestand) gr��er Buchbestand�
-[ ] phys. Abg�nge + / disp. Bestand -
-[x] phys. Zug�nge  + / disp. Bestand +
-[ ] phys. Abg�nge - / disp. Bestand -
-[ ] phys. Zug�nge - / disp. Bestand +
+Wie wirkt sich folgender Vorgang auf die Positionen des dispositiven Kontos aus?Vorgang Inventurdifferenz physischer Bestand (Zählbestand) größer Buchbestand
+[ ] phys. Abgänge + / disp. Bestand -
+[x] phys. Zugänge  + / disp. Bestand +
+[ ] phys. Abgänge - / disp. Bestand -
+[ ] phys. Zugänge - / disp. Bestand +
 
 
 --[ID: 354142]
 Welches beschafftes Material wird sofort vom System als verbraucht behandelt?
-[ ] Verbrauchsgef�hrtes Material
-[ ] Bestandsgef�hrtes Material
-[x] Nicht bestandgef�hrtes Material
+[ ] Verbrauchsgeführtes Material
+[ ] Bestandsgeführtes Material
+[x] Nicht bestandgeführtes Material
 [ ] Frei disponierbares Material
 
 
 --[ID: 354146]
-Welche der folgenden Aussagen trifft auf die Umlagerung �Werk an Werk� zu?
+Welche der folgenden Aussagen trifft auf die Umlagerung Werk an Werk zu?
 Anzahl richtige Antworten: 2
-[x] Die beiden Werke k�nnen zu verschiedenen BUK geh�ren.
-[ ] Eine Umlagerung �Werk an Werk� hat Auswirkungen f�r die Finanzbuchhaltung.
-[ ] Eine Umlagerung �Werk an Werk� geht nur innerhalb desselben Buchungskreises.
-[x] Bei einer Umlagerung �Werk an Werk� werden stets Materialwirtschaftsbelege erzeugt.
+[x] Die beiden Werke können zu verschiedenen BUK gehören.
+[ ] Eine Umlagerung Werk an Werk hat Auswirkungen für die Finanzbuchhaltung.
+[ ] Eine Umlagerung Werk an Werk geht nur innerhalb desselben Buchungskreises.
+[x] Bei einer Umlagerung Werk an Werk werden stets Materialwirtschaftsbelege erzeugt.
 
 
 --[ID: 354104]
-Mit dem Feld "Losgr��e" im Materialstammsatz wird die zu produzierende Menge gesteuert.
+Mit dem Feld "Losgröße" im Materialstammsatz wird die zu produzierende Menge gesteuert.
 [x] Richtig
 [ ] Falsch
 
 
 --[ID: 354128]
-Wie ist die Kardinalit�t (n:m-Beziehung) zwischen den Objekten Mandant und Buchungskreis?
+Wie ist die Kardinalität (n:m-Beziehung) zwischen den Objekten Mandant und Buchungskreis?
 [ ] 1:1
 [x] 1:n
 [ ] m:1
@@ -139,7 +139,7 @@ Wie ist die Kardinalit�t (n:m-Beziehung) zwischen den Objekten Mandant und Buc
 
 
 --[ID: 354098]
-Welche der folgenden Organisationseinheiten spielen bei der Pflege von Materialstamms�tzen eine Rolle?
+Welche der folgenden Organisationseinheiten spielen bei der Pflege von Materialstammsätzen eine Rolle?
 Anzahl richtige Antworten: 3
 [x] Werksebene
 [x] Lagerortebene
@@ -148,15 +148,15 @@ Anzahl richtige Antworten: 3
 
 
 --[ID: 354140]
-Welche der folgenden Aktivit�ten verkn�pft das Anlegen eines Kundenauftrags mit der Materialwirtschaft?
-[x] Verf�gbarkeitspr�fung
-[ ] Auftragser�ffnung
-[ ] Auftragsr�ckmeldung
+Welche der folgenden Aktivitäten verknüpft das Anlegen eines Kundenauftrags mit der Materialwirtschaft?
+[x] Verfügbarkeitsprüfung
+[ ] Auftragseröffnung
+[ ] Auftragsrückmeldung
 [ ] Materialentnahme
 
 
 --[ID: 354108]
-Physische Warenbewegungen geh�ren zu den Merkmalen von Umlagerungsbuchungen.
+Physische Warenbewegungen gehören zu den Merkmalen von Umlagerungsbuchungen.
 [x] Richtig
 [ ] Falsch
 
@@ -166,7 +166,7 @@ Wann wird der Einkaufsinfosatz geschrieben?
 Anzahl richtige Antworten: 2
 [ ] Wird als Stammsatz angelegt.
 [x] Wird mit der ersten Bestellung angelegt.
-[ ] Wird der Bestellung angeh�ngt.
+[ ] Wird der Bestellung angehängt.
 [x] Wird mit einem Angebot angelegt.
 [ ] Wird beim Customizing angelegt.
 
@@ -180,7 +180,7 @@ Anzahl richtige Antworten: 1
 
 
 --[ID: 354126]
-Welche der folgenden Beispiele geh�ren zu den Stammdaten?
+Welche der folgenden Beispiele gehören zu den Stammdaten?
 Anzahl richtige Antworten: 3
 [x] Kunde
 [x] Lieferant
@@ -195,16 +195,16 @@ Anzahl richtige Antworten: 3
 [x] Buchungskreis
 [x] Mandant
 [x] Einkauforganisation
-[ ] Gesch�ftsbereich
+[ ] Geschäftsbereich
 [ ] Logistik
 
 
 --[ID: 354119]
-Welche Organisationeinheit ist f�r die Materialbewertung im Innenverh�ltnis verantwortlich?
+Welche Organisationeinheit ist für die Materialbewertung im Innenverhältnis verantwortlich?
 [ ] Buchungskreis
 [ ] Lager
 [x] Werk
-[ ] Gesch�ftsbereich
+[ ] Geschäftsbereich
 
 
 --[ID: 354100]
@@ -224,16 +224,16 @@ In welcher Sicht des Materialstammsatzes befindet sich die Information, ob ein M
 
 
 --[ID: 354117]
-F�r welche Organisationseinheiten kann eine Einkaufsorganisation zust�ndig sein kann?
+Für welche Organisationseinheiten kann eine Einkaufsorganisation zuständig sein kann?
 Anzahl richtige Antworten: 1
 [ ] Buchungskreis
 [ ] Lager
 [x] Werk
-[ ] Gesch�ftsbereich
+[ ] Geschäftsbereich
 
 
 --[ID: 354111]
-Zu welcher Sicht geh�rt die Bestellw�hrung?
+Zu welcher Sicht gehört die Bestellwährung?
 Anzahl richtige Antworten: 1
 [ ] Dispositionssicht
 [x] Einkaufssicht
@@ -253,7 +253,7 @@ Anzahl richtige Antworten: 2
 
 
 --[ID: 354103]
-Welche der folgenden Aktionen werden bei der Fertigung des Materials durchgef�hrt?
+Welche der folgenden Aktionen werden bei der Fertigung des Materials durchgeführt?
 Anzahl richtige Antworten: 3
 [x] Materialbereitstellung
 [ ] Umwandlung des Planungsauftrags in Fertigungsauftrag
@@ -262,7 +262,7 @@ Anzahl richtige Antworten: 3
 
 
 --[ID: 354143]
-Welche Stammdaten werden ben�tigt, um eine Bestellung anzulegen?
+Welche Stammdaten werden benötigt, um eine Bestellung anzulegen?
 Anzahl richtige Antworten: 2
 [x] Lieferant
 [ ] Werk
@@ -271,12 +271,12 @@ Anzahl richtige Antworten: 2
 
 
 --[ID: 354106]
-Was kann beim Durchf�hren der MRP angelegt werden?
+Was kann beim Durchführen der MRP angelegt werden?
 Anzahl richtige Antworten: 2
 [ ] Bestellung
-[x] Sekund�rbedarfe
-[x] Planauftr�ge
-[ ] Planprim�rbedarfe
+[x] Sekundärbedarfe
+[x] Planaufträge
+[ ] Planprimärbedarfe
 
 
 --[ID: 354134]
@@ -286,11 +286,11 @@ Anzahl richtige Antworten: 3
 [x] Einkauforganisation
 [ ] Logistik
 [x] Werk
-[ ] Gesch�ftsbereich
+[ ] Geschäftsbereich
 
 
 --[ID: 354125]
-Mandant, Werk und ... sind Beispiele f�r Organisationsebenen, die bei der Pflege von Materialstamms�tzen eine Rolle spielen.
+Mandant, Werk und ... sind Beispiele für Organisationsebenen, die bei der Pflege von Materialstammsätzen eine Rolle spielen.
 Anzahl richtige Antworten: 1
 [ ] Transaktion
 [ ] Stammdaten
@@ -303,11 +303,11 @@ Anzahl richtige Antworten: 2
 [x] Die offenen Posten der Kreditoren werden ausgeglichen.
 [x] Die Zahlungsbelege werden gebucht.
 [ ] Der Kreditorenumsatz wird erfolgswirksam gebucht.
-[ ] Das WE/RE-Konto wird anschlie�end ausgeglichen.
+[ ] Das WE/RE-Konto wird anschließend ausgeglichen.
 
 
 --[ID: 354129]
-Wie ist die Kardinalit�t (n:m-Beziehung) zwischen den Objekten Einkauforganisation und Werk?
+Wie ist die Kardinalität (n:m-Beziehung) zwischen den Objekten Einkauforganisation und Werk?
 [ ] 1:1
 [ ] 1:n
 [ ] m:1
@@ -315,11 +315,11 @@ Wie ist die Kardinalit�t (n:m-Beziehung) zwischen den Objekten Einkauforganisa
 
 
 --[ID: 354144]
-Welche der folgenden organisatorischen Zuordnungen k�nnen Sie im Beschaffungsgesch�ftsprozess vornehmen?
-[x] Sie k�nnen einem BUK mehrere Einkaufsorganisationen zuordnen (1:n).
-[ ] Sie k�nnen der Einkaufsorganisation genau ein Werken zuordnen (1:1).
-[ ] Sie k�nnen einem strategischen Einkauf mehrere operative Einkauforganisationen zuordnen (1:n).
-[ ] Sie k�nnen ein Lager mehreren Werken zuordnen (1:n).
+Welche der folgenden organisatorischen Zuordnungen können Sie im Beschaffungsgeschäftsprozess vornehmen?
+[x] Sie können einem BUK mehrere Einkaufsorganisationen zuordnen (1:n).
+[ ] Sie können der Einkaufsorganisation genau ein Werken zuordnen (1:1).
+[ ] Sie können einem strategischen Einkauf mehrere operative Einkauforganisationen zuordnen (1:n).
+[ ] Sie können ein Lager mehreren Werken zuordnen (1:n).
 
 
 --[ID: 354107]
@@ -333,28 +333,28 @@ Anzahl richtige Antworten: 2
 
 --[ID: 354121]
 Welche Bedarfe werden im MRP-Lauf nicht geplant?
-[ ] Prim�rbedarfe
-[ ] Sekund�rbedarfe 
-[x] Terti�rbedarfe
+[ ] Primärbedarfe
+[ ] Sekundärbedarfe 
+[x] Tertiärbedarfe
 [ ] Mengenbedarfe
-[ ] Kapazit�tsbedarfe
+[ ] Kapazitätsbedarfe
 
 
 --[ID: 354145]
-Welche Objekte k�nnen durch einen Materialbedarfsplanungslauf (MRP) erzeugt werden?
+Welche Objekte können durch einen Materialbedarfsplanungslauf (MRP) erzeugt werden?
 Anzahl richtige Antworten: 2
 [x] Bestellanforderung
-[ ] Fertigungsauftr�ge
+[ ] Fertigungsaufträge
 [x] Planauftrag
 [ ] Lieferantenbestellungen
 
 
 --[ID: 354118]
-Welche Organisationeinheit ist f�r die Materialbewertung im Au�enverh�ltnis verantwortlich?
+Welche Organisationeinheit ist für die Materialbewertung im Außenverhältnis verantwortlich?
 [x] Buchungskreis
 [ ] Mandant
 [ ] Werk
-[ ] Gesch�ftsbereich
+[ ] Geschäftsbereich
 
 
 --[ID: 354109]
@@ -364,7 +364,7 @@ Um welches Element in der Materialbedarfsplanung (MRP) handelt es sich bei einem
 
 
 --[ID: 354113]
-Zu welcher Sicht geh�rt die optimale Bestellgr��e?
+Zu welcher Sicht gehört die optimale Bestellgröße?
 Anzahl richtige Antworten: 1
 [x] Dispositionssicht
 [ ] Einkaufsicht
@@ -379,12 +379,12 @@ Anzahl richtige Antworten: 2
 [ ] ausliefernde
 [x] disponierende
 [ ] bewertende
-[x] bestandsf�hrende
+[x] bestandsführende
 [ ] produzierende
 
 
 --[ID: 354120]
-Wie wird nicht bestandsgef�hrtes Material beschafft?
+Wie wird nicht bestandsgeführtes Material beschafft?
 Anzahl richtige Antworten: 2
 [ ] plangesteuert
 [x] manuell
@@ -403,7 +403,7 @@ Anzahl richtige Antworten: 2
 
 
 --[ID: 354137]
-Wie ist die Kardinalit�t (n:m-Beziehung) zwischen den Objekten Lager und Werk?
+Wie ist die Kardinalität (n:m-Beziehung) zwischen den Objekten Lager und Werk?
 [ ] 1:1
 [ ] 1:n
 [x] m:1
@@ -411,7 +411,7 @@ Wie ist die Kardinalit�t (n:m-Beziehung) zwischen den Objekten Lager und Werk?
 
 
 --[ID: 354116]
-Welche der folgenden Aussagen zur Logistik-Rechnungspr�fung trifft zu?
-[ ] Die Rechnungsbuchung ist die zweite Phase bei der Rechnungspr�fung.
-[ ] Die Logistik-Rechnungspr�fung dient als Bindeglied zwischen der Materialwirtschaft und der Bestandsf�hrung.
+Welche der folgenden Aussagen zur Logistik-Rechnungsprüfung trifft zu?
+[ ] Die Rechnungsbuchung ist die zweite Phase bei der Rechnungsprüfung.
+[ ] Die Logistik-Rechnungsprüfung dient als Bindeglied zwischen der Materialwirtschaft und der Bestandsführung.
 [x] Beim Buchen meiner Rechnung erzeugt das System einen Buchhaltungsbeleg.
