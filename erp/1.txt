@@ -14,7 +14,7 @@ Anzahl richtige Antworten: 2
 [ ] Ein Zweckbezug ist nicht immer notwendig.
 [ ] Enthält eine Optimierungsfunktion.
 [ ] Ist eine möglichst genaue Abbildung des Originals.
-[ ] Erfasst nicht alle Attribute des Originals.
+[x] Erfasst nicht alle Attribute des Originals.
 [x] Betrifft ein bestimmtes Zeitintervall.
 
 

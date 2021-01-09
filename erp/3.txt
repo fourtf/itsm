@@ -28,7 +28,7 @@ Anzahl richtige Antworten: 3
 --[ID: 354112]
 Zu welcher Sicht gehört die optimale Losgröße?
 Anzahl richtige Antworten: 1
-[ ] Dispositionssicht
+[x] Dispositionssicht
 [ ] Einkaufsicht
 [ ] Lagersicht
 [ ] Grunddatensicht

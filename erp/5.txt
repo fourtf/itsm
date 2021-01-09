@@ -10,7 +10,7 @@ Anzahl richtige Antworten: 1
 --[ID: 354166]
 Welche Aussagen zum Dispatcher sind richtig?
 Anzahl richtige Antworten: 2
-[ ] Der Dispater ist der Zugangspunkt zur Präsentationsebene aus Sicht der Applikationsebene.
+[ ] Der Dispatcher ist der Zugangspunkt zur Präsentationsebene aus Sicht der Applikationsebene.
 [x] Der Dispatcher ordnet dem Benutzer über das GUI angeforderte Dialogschritte einem Workprozess zu.
 [x] Ein Dialogschritt wird genau einem Workprozess zugeordnet.
 [ ] Der Dispatcher sorgt dafür, dass in Ausführung befindliche Transaktionen sich nicht gegenseitig beeinflussen.
